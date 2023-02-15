@@ -1,4 +1,4 @@
-### Hi there 👋
+### Lab Assignment 5
 
 <!--
 **KushH305/KushH305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
